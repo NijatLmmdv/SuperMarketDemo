@@ -1,0 +1,6 @@
+ID:223513
+Name:Afr
+Price:3
+Unit:3
+Type:Fresh
+EXPdata:07062020

@@ -1,0 +1,6 @@
+ID:14291
+Name:Atena
+Price:1
+Unit:2
+Type:Cupping
+EXPdata:07072020

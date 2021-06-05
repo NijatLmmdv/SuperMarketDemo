@@ -1,0 +1,6 @@
+ID:421282991
+Name:Bershkha
+Price:100
+Unit:1
+Type:Slim
+EXPdata:06062040

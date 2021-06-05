@@ -1,0 +1,6 @@
+ID:46313
+Name:Reds
+Price:3
+Unit:1
+Type:OriginalVillage
+EXPdata:02062020

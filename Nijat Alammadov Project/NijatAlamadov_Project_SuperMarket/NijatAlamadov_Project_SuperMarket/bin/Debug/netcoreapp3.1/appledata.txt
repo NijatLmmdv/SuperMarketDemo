@@ -1,0 +1,6 @@
+ID:21313
+Name:Green
+Price:1
+Unit:3
+Type:Quba
+EXPdata:03062020

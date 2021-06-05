@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "NijatAlamadov_Project_SuperMarket/1.0.0": {
+        "runtime": {
+          "NijatAlamadov_Project_SuperMarket.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NijatAlamadov_Project_SuperMarket/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,6 @@
+ID:77313
+Name:Rabs
+Price:5
+Unit:1
+Type:Old
+EXPdata:22062020

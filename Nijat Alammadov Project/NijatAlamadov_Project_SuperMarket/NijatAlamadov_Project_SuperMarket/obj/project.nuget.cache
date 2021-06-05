@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "G8PpCWDRnYs7oAwMmgtycARZpmZAI8zyo4Z2A2xBx2TyBgAKw97uvoAahbWuyIrQ7uJ0K738JSh0jebxRnDrWA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\Nijat Alammadov Project\\NijatAlamadov_Project_SuperMarket\\NijatAlamadov_Project_SuperMarket\\NijatAlamadov_Project_SuperMarket.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
